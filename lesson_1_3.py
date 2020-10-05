@@ -11,4 +11,4 @@ print(int(n)+int(nn)+int(nnn))
 # Например, пользователь ввёл число 3. Считаем 3 + 33 + 333 = 369.
 # var - 2
 n = int(input('Введите число:'))
-print(n + int(str(n) + str(n)) + int(str(n) + str(n)+ str(n)))
+print(n + int(str(n) + str(n)) + int(str(n) + str(n) + str(n)))
